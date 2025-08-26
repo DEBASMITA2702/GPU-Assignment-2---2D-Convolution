@@ -43,7 +43,7 @@ Output Matrix:
 ---
 
 ## Execution
-nvcc <convolution>.cu -o conv2d  
+nvcc convolution.cu -o conv2d  
 ./conv2d
 
 

@@ -1,1 +1,1 @@
-nvcc -std=c++17 -arch=sm_75 main.cu -o main.out
+nvcc -std=c++17 -arch=sm_75 convolution.cu -o main.out
